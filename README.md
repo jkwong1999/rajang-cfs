@@ -69,9 +69,6 @@ experience, job expertise, DISC & RIASEC personality
 
 This is a paid feature :)
 
-#### Manage Job Vacancies/Posts
-
-
 #### CV Listing / Shortlist
 The user should see a list of CV available in the database. This feature allows
 the user to view partial CV details and reserve it. After purchasing the CVs, 
