@@ -83,7 +83,7 @@ Reserving the CV will cause the corresponding CV to be adder to the cart.
 #### Cart Feature
 The cart will include all the CV reservations that the user chose to reserve in 
 the CV listing page. Here the user can click a "Checkout" button and the system 
-will bring the user to the checkout page for confirmatin of payment.
+will bring the user to the checkout page for confirmation of payment.
 
 The cart is only a feature and not a page by itself. This feature can be found 
 in the top menu bar.
@@ -94,7 +94,7 @@ out the details of the purchase such as total cost, order type ie transaction
 name, and the datetime of the transaction as well as the status of the transaction.
 
 #### Wallet
-This is the plce where the user can top up tokens that is necessary to pay for 
+This is the place where the user can top up tokens that is necessary to pay for 
 the features available in the system.
 
 Here user can also view his/her transaction history.
@@ -109,6 +109,22 @@ Anything related to DB will go here, maybe skip this part? :)
 #### CV Listing / Shortlist
 #### Wallet
 
+#### Chatbot
+The chatbot is a telegram bot. It is the main platform for job applicant to 
+apply for jobs.
+
+#### Search for jobs
+This is the place where job applicants can search for thier desired job and aslo 
+view the job details to check whether they fullfil the job requirements.
+They need to upload thier cv before applying for the job. After they apply, the 
+interview schedule will send to job applicant throught the telegram bot once confirmed.
+
+#### Manage Skills
+The is the place where job applicants can update thier current skills.
+
+#### Update Portfolio
+This is the place where job applicants can upate their portfolio of past works.
+.
 ### ISO Standards
 ???
 
