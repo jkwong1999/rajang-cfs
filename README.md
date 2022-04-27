@@ -117,12 +117,20 @@ Anything related to DB will go here, maybe skip this part? :)
 #### Chatbot
 This is the main platform for job applicant to apply for jobs.
 
-###Search for jobs
+#### Search for jobs
 This is the place where job applicant can search for thier desired job and also 
 view the job details to check whether they fullfil job requirements before apply 
 for the job. Job applicant need to upload the cv before applying for the job.
 
 #### Manage Skill
+This is the place where job applicants can update thier current skill.
+
+#### Update Portfolio
+This is the place where job applicant can update thier portfolio of past works.
+
+#### Publish CV to public
+Job applicant can publish thier cv online so the employer who are interested with them 
+will able to hire them.
 
 
 
